@@ -47,8 +47,6 @@ parso==0.8.2
 pickleshare==0.7.5
 Pillow==8.3.2
 plotly==5.3.1
-postgres==4.0
-postgresql-devel
 prometheus-client==0.11.0
 prompt-toolkit==3.0.20
 protobuf==3.18.0
@@ -61,7 +59,6 @@ Pygments==2.10.0
 pyparsing==2.4.7
 pyrsistent==0.18.0
 python-dateutil==2.8.2
-python-devel
 pytz==2021.1
 pyzmq==22.3.0
 requests==2.26.0
